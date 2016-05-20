@@ -2,12 +2,8 @@
   "name": "generator-monkey-plugin",
   "version": "0.0.0",
   "description": "Create a new Monkey Plugin WordPress Boilerplate",
-  "homepage": "",
-  "author": {
-    "name": "Elvis Henrique Pereira",
-    "email": "elvishp2006@gmail.com",
-    "url": ""
-  },
+  "homepage": "https://github.com/elvishp2006/generator-monkey-plugin#readme",
+  "author": "Elvis Henrique Pereira <elvishp2006@gmail.com>",
   "files": [
     "generators"
   ],
@@ -44,10 +40,19 @@
       "mocha": true
     }
   },
-  "repository": "elvishp2006/generator-monkey-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvishp2006/generator-monkey-plugin.git"
+  },
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/elvishp2006/generator-monkey-plugin/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
 }
