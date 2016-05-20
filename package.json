@@ -1,6 +1,6 @@
 {
   "name": "generator-monkey-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create a new Monkey Plugin WordPress Boilerplate",
   "homepage": "https://github.com/elvishp2006/generator-monkey-plugin#readme",
   "author": "Elvis Henrique Pereira <elvishp2006@gmail.com>",
