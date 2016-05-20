@@ -1,5 +1,5 @@
 # generator-apb [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Create a new Apiki WordPress Boilerplate
+> Create a new Monkey Plugin WordPress Boilerplate
 
 ## Installation
 
@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-apb using [npm](https://
 
 ```bash
 npm install -g yo
-npm install -g generator-apb
+npm install -g generator-monkey-plugin
 ```
 
 Then generate your new project:
 
 ```bash
-yo apb
+yo monkey-plugin
 ```
 
 ## Getting To Know Yeoman
@@ -28,9 +28,9 @@ yo apb
 Apache-2.0 © [Elvis Henrique Pereira]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-apb.svg
-[npm-url]: https://npmjs.org/package/generator-apb
-[travis-image]: https://travis-ci.org/elvishp2006/generator-apb.svg?branch=master
-[travis-url]: https://travis-ci.org/elvishp2006/generator-apb
-[daviddm-image]: https://david-dm.org/elvishp2006/generator-apb.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/elvishp2006/generator-apb
+[npm-image]: https://badge.fury.io/js/generator-monkey-plugin.svg
+[npm-url]: https://npmjs.org/package/generator-monkey-plugin
+[travis-image]: https://travis-ci.org/elvishp2006/generator-monkey-plugin.svg?branch=master
+[travis-url]: https://travis-ci.org/elvishp2006/generator-monkey-plugin
+[daviddm-image]: https://david-dm.org/elvishp2006/generator-monkey-plugin.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/elvishp2006/generator-monkey-plugin
